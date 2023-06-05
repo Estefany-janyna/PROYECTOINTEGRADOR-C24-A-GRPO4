@@ -1,0 +1,13 @@
+.container-wrapper {
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0 auto; /* Para centrar el contenedor horizontalmente */
+  background-color: white;
+}
+
+.custom-input {
+  width: 100%; /* Ajusta el ancho según tus necesidades */
+}
+

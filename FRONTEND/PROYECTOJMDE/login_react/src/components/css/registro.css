@@ -1,0 +1,12 @@
+.container {
+    margin-top: 4rem; /* Ajusta el valor según tus necesidades */
+    background-color: white;
+  }
+
+  body {
+    background-image: url("../img/VidaEduTECSUP.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
